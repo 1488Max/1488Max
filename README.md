@@ -5,3 +5,4 @@
 <code>🧑‍💻 Languages: Java</code>
 <code>💬 telegram: [@MaKSym69](https://telegram.me/MaKSym69)</code>
 <code>📫 [bargamin123@gmail.com](mailto:bargamin123@gmail.com)</code>
+<code>[Linkedin](https://www.linkedin.com/in/max-bargamin-232910237/)</code>
