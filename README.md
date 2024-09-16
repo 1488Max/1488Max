@@ -1,4 +1,4 @@
-<code>🎓 Student: KPI / IO-02 4 course</code>
+<code>🎓 Student: KPI / IM-41mp 5 course</code>
 <code>👷 Speciality: Software engineer / Backend</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code> [Projects](PROJECTS.md)</code>
